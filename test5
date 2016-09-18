@@ -1,0 +1,10 @@
+program
+begin
+if a <= b then
+if a <= a then
+a = b
+else
+b = a
+else
+if a <= a then                                                                                      a = b                                                                                            else                                                                                                       b = a                                                                                                   end
+.

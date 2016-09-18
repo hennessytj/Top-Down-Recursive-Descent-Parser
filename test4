@@ -1,0 +1,22 @@
+program
+begin
+	while c <= 2 do
+	begin
+		if b <= 0 then
+			while a <= 0 do
+				c = + a 1
+		else
+		begin
+			a = * a b
+		end ;
+		c = + a b
+	end ;
+	if b <= 0 then
+		c = + a 1
+	else
+		a = * a b ;
+	c = + 1 0 ;
+	c = + c c ;
+	c = + 0 1
+end.
+		

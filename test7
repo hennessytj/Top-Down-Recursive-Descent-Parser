@@ -1,0 +1,24 @@
+program
+begin
+    while a <= c do
+        a = 1 ;
+        begin
+            if a <= 2 then 
+                begin
+                    c = + c a 
+                end
+            else
+                b = 1 ;
+            begin
+                begin
+                    begin
+                        a = * 1 1 ;
+                        c = c ;
+                        b = 1 ;
+                        while a <= + + a b  + 1 2 do
+                            a = + * + a 2 1 b
+                        end
+                    end
+                end
+            end
+        end.

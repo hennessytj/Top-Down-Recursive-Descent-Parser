@@ -1,0 +1,30 @@
+
+
+program 
+
+    begin
+
+            begin
+
+            if a <= 0 then a = 0 
+
+            else
+
+                begin
+
+                    begin
+
+                        begin
+
+                            while a <= 2 do a = + a a
+
+                        end
+
+                    end
+
+                end
+
+        end
+
+    end     .
+
